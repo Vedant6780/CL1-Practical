@@ -1,0 +1,56 @@
+Practical-1
+Write a program for sending alert messages to the
+user for controlling and interacting with your environment.
+
+https://www.tinkercad.com/things/e5oCeDIF3HP-sizzling-sango-lappi?sharecode=qA9OiZ61i3aeaqpY8QhvXq7NbWetBdIRmTr3NAXiP7E
+
+Practical-2
+
+Write an Arduino program for interfacing with PIR sensor Experiment 
+
+https://www.tinkercad.com/things/d8irbuvqB80-copy-of-pir-sensor
+
+practical-3
+Write a program for developing an IIoT application for energy monitoring and optimization.
+
+https://www.tinkercad.com/things/hsXScxZmWKs-copy-of-smart-home-energy-management?sharecode=lWjEMowmQB11wUnR1Ga7m8tdrHs5fjaA8mBeGaUQTcw
+
+practical-4
+Write a program for implementing security measures in an IIoT system.
+
+https://www.tinkercad.com/things/2YuzAWWBqK4-copy-of-industrial-safety-monitoring-using-iot-?sharecode=Rp_kQNsPvf-reMNt_t0w5YLT2LMxviI4Z2B5dLLGooQ
+
+practical-5
+Write a Program to design and develop a user interface for monitoring and controlling CPS system
+
+https://www.tinkercad.com/things/8EqnfxsaSFT-copy-of-car-parking-system?sharecode=zhEMF2IfJ3qw5IcSewMrpbBHG6O8pg5KXB-qwVoaWlA
+
+UI/UX Figma
+
+practical-2
+Design a wireframe for an online learning platform that includes course listings, video
+
+lectures, quizzes, and progress tracking
+
+https://www.figma.com/design/HwY7kj6YkUpeO6owK6HFlO/Online-Learning-Platform---Wireframe?node-id=0-1&t=lpFsxq87e9mzeKGK-1
+
+practical 3
+Create wireframes and a prototype for a social fitness app that allows users to track workouts,
+connect with friends, and share progress. Design the user interface for logging exercises,
+
+setting goals, and incorporating social features.
+
+https://www.figma.com/design/IGJuy5qgwTmGugKzgrA3gA/Experiment-3-%E2%80%93-Social-Fitness-Wireframe?node-id=0-1&t=CIgsv6gVQYRloTjP-1
+
+practical 4
+Use Figma tool to Design a user interface for a recipe finder application, allowing users
+to search for recipes based on ingredients, categories, and dietary restrictions. Include
+features like recipe details, cooking instructions, and saving favorites
+
+https://www.figma.com/design/GiU9cHKnH4B6rX9k0FIwcu/Experiment-4-%E2%80%93-Recipe-Finder-App?node-id=0-1&t=2ky5Do0c631mmay2-1
+
+
+
+
+
+
